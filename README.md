@@ -1,16 +1,57 @@
-## Hi there 👋
+# 👨‍💻 Caio Vinicius — Software Engineer
 
-<!--
-**caiovinicius28/caiovinicius28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer specialized in backend systems, automation, and applied AI.
 
-Here are some ideas to get you started:
+I help individuals and businesses turn ideas into functional software systems, focusing on reliability, automation, and practical results rather than unnecessary complexity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 🧠 What I Do
+
+I design and build software solutions with a strong focus on:
+
+- Backend development and system architecture
+- AI integration (LLMs, automation, and intelligent workflows)
+- Process automation and productivity systems
+- Custom tooling and internal systems
+- Self-hosted and privacy-focused solutions (homelabs, private systems)
+
+---
+
+# ⚙️ Working Style
+
+- I prioritize building systems that solve real problems, not just prototypes
+- Strong focus on automation and efficiency
+- Comfortable working close to systems, infrastructure, and low-level logic
+- Prefer backend-heavy and logic-driven development over UI-focused work
+- Independent builder mindset — I can take ideas from concept to working system
+
+---
+
+# 🤖 AI & Automation Focus
+
+I work extensively with AI systems and LLM-based automation, including:
+
+- Workflow automation using AI
+- Integration of LLMs into real applications
+- Voice-driven and task-oriented systems
+- Custom AI pipelines and tool execution layers
+
+---
+
+# 💼 Services & Collaboration
+
+Open to freelance work, consulting, and collaborations involving:
+
+- Backend systems development
+- AI-powered applications and automation
+- API design and system integration
+- Custom software tools and internal systems
+
+If you have an idea, I can help you turn it into a working system.
+
+---
+
+# 📩 Contact
+
+Available for projects and collaborations via GitHub or direct contact channels.
