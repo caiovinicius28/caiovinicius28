@@ -1,7 +1,6 @@
-# 👨‍💻 Caio Vinicius — Software Engineer
+# Hi! Im Caio Vinicius — Software Engineer
 
-Software Engineer specialized in backend systems, automation, and applied AI.
-
+Im Software Engineer specialized in backend systems, automation, and applied AI.
 I help individuals and businesses turn ideas into functional software systems, focusing on reliability, automation, and practical results rather than unnecessary complexity.
 
 ---
